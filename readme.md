@@ -1,6 +1,6 @@
 ### What is this?
 
-WordPress allows you to automagically convert a selected text to a link when you paste an url (into TinyMCE). But how about converting ANY text into an URL? E.g. if you want to convert a _relative_ path to an url? If you know some very little Regex, you can tweak it as needed. Here is how:
+WordPress allows you to automagically convert a selected text to a link when you paste an url (into TinyMCE). But how about converting ANY text into an URL? E.g. if you want to convert a _relative_ path to an url? If you know some very little [Regex](http://www.regular-expressions.info/tutorial.html), you can tweak it as needed. Here is how:
 
 ### Usage
 

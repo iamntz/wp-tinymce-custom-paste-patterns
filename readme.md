@@ -4,7 +4,7 @@ WordPress allows you to automagically convert a selected text to a link when you
 
 ### Usage
 
-By default, it will accept clipboard content that follows this pattern: `/?go=NUMBER`. If you want to add a custom pattern, you can do so by using a filter:
+By default, it will accept clipboard content that follows this pattern: `/?go=NUMBER`. If you want to add a custom pattern, you can do so by using a filter in your `functions.php`:
 
 ```php
 add_filter('ntz/tinymce/custom_paste_patterns', function($patterns){
